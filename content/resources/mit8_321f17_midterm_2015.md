@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d557776d-b07c-99b9-a34c-83333552d0a9
 resourcetype: Document
 title: Quantum Theory I , Midterm 2015
 uid: bc38e691-c0f4-189b-740b-d7e4684172f3

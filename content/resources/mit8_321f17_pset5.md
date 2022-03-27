@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 961a6529-5931-d77f-9cc1-043f9f57c379
 resourcetype: Document
 title: Quantum Theory I, Problem Set 5
 uid: 210bb872-b3ee-63ad-4fc9-8a05a32e604f
