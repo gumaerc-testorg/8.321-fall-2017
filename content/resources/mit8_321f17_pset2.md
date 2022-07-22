@@ -6,6 +6,7 @@ file: /courses/8-321-quantum-theory-i-fall-2017/98814bbcf468a1feda9c87fa06108de7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantum Theory I, Problem Set 2
 uid: 98814bbc-f468-a1fe-da9c-87fa06108de7
 ---
 This resource contains information regarding quantum theory I, problem set 2.
-

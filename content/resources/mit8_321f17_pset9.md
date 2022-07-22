@@ -6,6 +6,7 @@ file: /courses/8-321-quantum-theory-i-fall-2017/82ea6da34ba9c6c9206ce53af8da5b0d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Quantum Theory I, Problem Set 9
 uid: 82ea6da3-4ba9-c6c9-206c-e53af8da5b0d
 ---
 This resource contains information regarding quantum theory I, problem set 9.
-
