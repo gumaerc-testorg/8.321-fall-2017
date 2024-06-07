@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding quantum theory I, problem
   set 3.
 file: /courses/8-321-quantum-theory-i-fall-2017/706f3da37cc0978bde0835d9797e1d3b_MIT8_321F17_Pset3.pdf
+file_size: 209714
 file_type: application/pdf
 learning_resource_types:
 - Assignments
