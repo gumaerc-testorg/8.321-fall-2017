@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quantum theory I, problem
   set 5.
-file: /courses/8-321-quantum-theory-i-fall-2017/210bb872b3ee63ad4fc98a05a32e604f_MIT8_321F17_Pset5.pdf
+file: /ol-ocw-studio-app/courses/8-321-quantum-theory-i-fall-2017/210bb872b3ee63ad4fc98a05a32e604f_MIT8_321F17_Pset5.pdf
 file_size: 183118
 file_type: application/pdf
 learning_resource_types:
