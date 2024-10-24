@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quantum theory I, exams.
-file: /courses/8-321-quantum-theory-i-fall-2017/bc38e691c0f4189b740bd7e4684172f3_MIT8_321F17_Midterm_2015.pdf
+file: /ol-ocw-studio-app/courses/8-321-quantum-theory-i-fall-2017/bc38e691c0f4189b740bd7e4684172f3_MIT8_321F17_Midterm_2015.pdf
 file_size: 173123
 file_type: application/pdf
 learning_resource_types:
