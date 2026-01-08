@@ -56,14 +56,14 @@ Topics Covered
 Textbook
 --------
 
-Sakurai, Jun John, and Jim Napolitano. _Modern Quantum Mechanics_. Cambridge University Press, 2017. ISBN: 9781108422413. \[Preview with {{% resource_link "5560b989-b158-4888-b4d6-901103737024" "Google Books" %}}\]
+Sakurai, Jun John, and Jim Napolitano. _Modern Quantum Mechanics_. Cambridge University Press, 2017. ISBN: 9781108422413. \[Preview with [Google Books](http://books.google.com/books?id=010yDwAAQBAJ&pg=PAfrontcover)\]
 
 Related Readings
 ----------------
 
-The Solvay Meetings and the Development of Quantum Mechanics. Niels Bohr at the occasion of the 12th Solvay Conference in Physics, 9–14. October 1961. "{{% resource_link "8e5be4c3-6207-46a1-9f9b-b04c490b08ca" "Quantum Theory of Fields (PDF)" %}}."
+The Solvay Meetings and the Development of Quantum Mechanics. Niels Bohr at the occasion of the 12th Solvay Conference in Physics, 9–14. October 1961. "[Quantum Theory of Fields (PDF)](http://www.solvayinstitutes.be/pdf/Niels_Bohr.pdf)."
 
-Kleppner, Daniel, and Roman Jackiw. "{{% resource_link "6b19b867-1dc1-4662-8cf4-2f98b8653e4b" "One Hundred Years of Quantum Physics" %}}." _Science_ 289, no. 5481 (2000): 893–8.
+Kleppner, Daniel, and Roman Jackiw. "[One Hundred Years of Quantum Physics](https://doi.org/10.1126/science.289.5481.893)." _Science_ 289, no. 5481 (2000): 893–8.
 
 Grading
 -------

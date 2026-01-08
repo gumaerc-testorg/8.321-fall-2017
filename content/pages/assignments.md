@@ -8,7 +8,7 @@ title: Assignments
 uid: 961a6529-5931-d77f-9cc1-043f9f57c379
 ---
 
-Some of the problems are assigned in the required course textbook: Sakurai, Jun John, and Jim Napolitano. _Modern Quantum Mechanics_. Cambridge University Press, 2017. ISBN: 9781108422413. \[Preview with {{% resource_link "5560b989-b158-4888-b4d6-901103737024" "Google Books" %}}\]
+Some of the problems are assigned in the required course textbook: Sakurai, Jun John, and Jim Napolitano. _Modern Quantum Mechanics_. Cambridge University Press, 2017. ISBN: 9781108422413. \[Preview with [Google Books](http://books.google.com/books?id=010yDwAAQBAJ&pg=PAfrontcover)\]
 
 {{% resource_link 0fdad099-997a-d5e4-6aea-e92c7d27cea7 "Problem Set 1 (PDF)" %}}
 
